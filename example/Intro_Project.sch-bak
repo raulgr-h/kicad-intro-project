@@ -91,7 +91,7 @@ F 3 "https://www.kingbrightusa.com/images/catalog/SPEC/APT2012CGCK.pdf" H 6900 3
 	-1   0    0    1   
 $EndComp
 $Comp
-L Intro_Project-rescue:LM555-Timer U1
+L Timer:LM555 U1
 U 1 1 61255388
 P 6150 3350
 F 0 "U1" H 6000 3700 50  0000 C CNN
