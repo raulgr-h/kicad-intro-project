@@ -1,0 +1,11 @@
+Plotted to 'D:\black\Documents\Intro Project\Intro Project-F_Cu.gbr'.
+Plotted to 'D:\black\Documents\Intro Project\Intro Project-B_Cu.gbr'.
+Plotted to 'D:\black\Documents\Intro Project\Intro Project-F_Paste.gbr'.
+Plotted to 'D:\black\Documents\Intro Project\Intro Project-B_Paste.gbr'.
+Plotted to 'D:\black\Documents\Intro Project\Intro Project-F_Silkscreen.gbr'.
+Plotted to 'D:\black\Documents\Intro Project\Intro Project-B_Silkscreen.gbr'.
+Plotted to 'D:\black\Documents\Intro Project\Intro Project-F_Mask.gbr'.
+Plotted to 'D:\black\Documents\Intro Project\Intro Project-B_Mask.gbr'.
+Plotted to 'D:\black\Documents\Intro Project\Intro Project-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\black\Documents\Intro Project\Intro Project-job.gbrjob'.
+Info: Done.
